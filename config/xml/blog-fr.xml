@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Feb 2015 19:14:38 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Affronter Google Panda : meilleures pratiques de référencement pour PrestaShop</title>
+		<link>https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 09:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18331</guid>
+		<description><![CDATA[<p>Aujourd&#8217;hui, nous accueillons une nouvelle fois Jordi Ordóñez, membre de la communauté PrestaShop (jordiob) et gérant du site Web basé à Barcelone http://jordiob.com/. Consultant e-commerce, il conseille les marchands en matière de pratiques e-commerce, de développement Web et de référencement. Aujourd&#8217;hui, il partage avec nous ses conseils sur le référencement des sites Web e-commerce. Après [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/">Affronter Google Panda : meilleures pratiques de référencement pour PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aujourd&rsquo;hui, nous accueillons une nouvelle fois <a href="https://plus.google.com/101848022626876111829/about" target="_blank">Jordi Ordóñez</a>, membre de la communauté PrestaShop (<a style="font-style: italic" href="http://www.prestashop.com/forums/user/145757-jordiob/" target="_blank">jordiob</a>) et gérant du site Web basé à Barcelone <a href="http://jordiob.com/" target="_blank">http://jordiob.com/</a>. Consultant e-commerce, il conseille les marchands en matière de pratiques e-commerce, de développement Web et de référencement. Aujourd&rsquo;hui, il partage avec nous ses conseils sur le référencement des sites Web e-commerce.<br />
+<span id="more-18331"></span></p>
+<p><img class="alignright size-full wp-image-19488" style="margin-right: 0" alt="Jordi Ordóñez" src="http://www.prestashop.com/blog/en/files/2015/01/Jordi-Ordóñez.jpg" width="235" height="207" /></p>
+<p>Après avoir été longtemps absent du blog PrestaShop, je suis heureux d&rsquo;avoir de nouveau l&rsquo;opportunité de parler de PrestaShop et du référencement. Aujourd&rsquo;hui, nous allons nous concentrer sur les pénalités Google Panda et sur la façon de les contourner.</p>
+<p>Google a publié la première version de l&rsquo;algorithme Panda en février 2011. L&rsquo;objectif de cet algorithme était de pénaliser et de bloquer les sites de mauvaise qualité (sites Web incluant du contenu de mauvaise qualité copié à partir d&rsquo;autres sites Web et pauvres en contenu) en dégradant leur classement dans les résultats du moteur de recherche.</p>
+<h2 style="color:#00933B">Comment savoir si mon site est concerné par Panda ?</h2>
+<p>Je considère Panda comme un « bourreau silencieux ». Contrairement à la perte de trafic instantanée et significative provoquée par Google Penguin, Panda vous fait perdre progressivement votre trafic organique. Vous devez donc surveiller de près votre trafic organique si vous pensez que Panda s&rsquo;intéresse à votre site. Examinons la façon dont les pénalités Google Penguin et Panda réduisent votre trafic Web :</p>
+<p><img class="aligncenter size-full wp-image-19489" alt="Google panda vs Google penguin" src="http://www.prestashop.com/blog/fr/files/2015/02/Google-panda-vs-Google-penguin.png" width="560" height="273" /></p>
+<p>Comme vous pouvez le voir, Penguin a des répercussions instantanées, tandis que Panda agit sur le moyen à long terme. Vous ne remarquerez pas l&rsquo;incidence d&rsquo;une pénalité Panda aussi rapidement que celle d&rsquo;une pénalité Penguin, et lorsque vous le ferez, il sera peut-être trop tard.</p>
+<p>Votre trafic ne chutant pas significativement du jour au lendemain (uniquement dans des cas extrêmes), vous devrez générer des rapports quotidiens sur votre trafic organique à l&rsquo;aide de <a href="http://addons.prestashop.com/fr/statistiques-analyses-modules-prestashop/4168-ganalytics.html">Google Analytics</a> (ou d&rsquo;un autre outil). Pour l&rsquo;e-commerce, Penguin vous oblige à fermer votre boutique en ligne plus rapidement que Panda. De plus, il est plus difficile de se relever d&rsquo;une pénalité Penguin que d&rsquo;une pénalité Panda.</p>
+<p>Comment savoir alors si votre site est concerné ? Repérez toute perte de trafic organique, même les moins importantes. Elles peuvent être difficiles à détecter, car votre trafic organique baissera progressivement sur plusieurs semaines.</p>
+<p>Mon ami <a href="http://www.mjcachon.es/" target="_blank">MJ Cachon</a>, consultant en référencement, m&rsquo;a initié à certains outils gratuits et performants que vous pouvez utiliser également : <a style="font-weight: bold" href="http://www.barracuda-digital.co.uk/panguin-tool/">Panguin</a>, <a style="font-weight: bold" href="http://feinternational.com/website-penalty-indicator/" target="_blank">Website Penalty Indicator</a> ou <a style="font-weight: bold" href="http://suite.searchmetrics.com/en/research/domains/organic" target="_blank">SearchMetrics</a>.</p>
+<p>La fonction d&rsquo;<a style="font-weight: bold" href="https://support.google.com/analytics/answer/1033021?hl=fr" target="_blank">alerte de Google Analytics</a> est également très utile. Définissez des alertes quotidiennes qui vous indiqueront à quel rythme votre trafic organique chute chaque jour.</p>
+<h2 style="color:#00933B">Quel est le lien avec ma boutique PrestaShop ?</h2>
+<p>Eh bien, découvrons ce qu&rsquo;aime notre panda (outre les feuilles de bambou) :</p>
+<ul style="padding-left: 30px">
+<li>Pages pauvres en contenu</li>
+<li>Contenu de mauvaise qualité</li>
+<li>Contenu dupliqué</li>
+<li>Erreurs 404 très fréquentes</li>
+<li>Liens de mauvaise qualité</li>
+<li>Pages remplies de mots-clés</li>
+<li>Contenu adapté aux moteurs de recherche, pas aux utilisateurs</li>
+<li>Vitesse de chargement des pages</li>
+</ul>
+<p>Voilà les bases de l&rsquo;algorithme Panda. Mais, si vous souhaitez en savoir plus sur la façon dont il fonctionne, Bill Slawski, de SEO by the sea, détaille les <a href="http://www.seobythesea.com/2014/09/new-panda-update-new-panda-patent/">brevets développés et acquis par Google</a> dans le cadre de la conception de Panda.</p>
+<h2 style="color:#00933B">Comment rebondir après une pénalité Panda ?</h2>
+<p>Trouvez la solution à vos problèmes en répondant aux questions ci-dessous. Soyez honnête, il en va de la survie de votre trafic.</p>
+<h4 style="color:#3369E8">Ai-je inclus des pages pauvres en contenu ou un contenu de mauvaise qualité sur mon site ?</h4>
+<p>Cette question est particulièrement importante pour les pages relatives à vos produits ou à vos catégories de produits, ainsi que pour votre <a href="https://www.prestashop.com/blog/fr/content-marketing/">blog</a> (si vous n&rsquo;en avez pas déjà un, vous devriez vous lancer !). N&rsquo;oubliez pas que le contenu est le critère prioritaire des moteurs de recherche. Créez par conséquent des contenus pertinents et utiles qui vous sont propres. Ne copiez-collez jamais du texte fourni par votre distributeur, grossiste ou fabricant. <a href="http://siteliner.com/" target="_blank">Siteliner</a> est un outil remarquable qui vous aide à visualiser la qualité générale du contenu de votre site e-commerce. Il affiche le pourcentage de contenu en double, de contenu commun et de contenu propre à votre site.</p>
+<p>Si vous devez revoir une grande quantité de contenu de mauvaise qualité et que votre boutique est déjà active, ce qui vous laisse peu de temps libre, envisagez de <a style="font-style: italic" href="https://www.prestashop.com/fr/agences-web-partenaires">recruter quelqu&rsquo;un</a> pour le faire. Ne faites jamais, je dis bien JAMAIS, confiance à des prestataires de services affichant des tarifs très bas pour modifier votre contenu. Si votre site est affecté par Panda, le recrutement d&rsquo;une personne qui n&rsquo;écrit PAS de contenus utiles et uniques peut aggraver la situation.</p>
+<h4 style="color:#3369E8">Est-ce que les erreurs 404 sont très fréquentes sur mon site ?</h4>
+<p>Analysez votre site grâce à <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screamingfrog</a> ou <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> pour compter le nombre d&rsquo;erreurs 404 qui apparaissent sur votre site et les corriger. Et, bien sûr, utilisez les <a href="https://support.google.com/webmasters/answer/2409439?hl=fr" target="_blank">outils Google pour les webmasters</a> pour assurer le suivi des erreurs 404 et les <a href="https://support.google.com/webmasters/answer/93641?hl=fr">consignes Google</a> pour créer des pages 404 utiles. Faites attention lorsque vous supprimez ou désactivez des produits et catégories dans votre boutique. Redirigez toujours les produits expirés (avec des redirections 301) vers la catégorie parent ou un produit similaire. Il en va de même pour les pages de catégories.</p>
+<h4 style="color:#3369E8">Des liens de mauvaise qualité pointent-ils vers mon site Web ?</h4>
+<p>Ce problème est plus compliqué à résoudre. Les outils gratuits qui évaluent de façon approfondie la qualité des liens retour sont rares. Je suggère d&rsquo;utiliser <a href="https://majestic.com/" target="_blank">Majestic</a>, <a href="https://ahrefs.com/" target="_blank">Ahrefs</a> ou <a href="https://moz.com/researchtools/ose/" target="_blank">Open Site Explorer de Moz</a> pour réaliser une première évaluation et déterminer si vos liens sont de bonne ou de mauvaise qualité. Si vous pensez qu&rsquo;un problème sérieux existe, prenez des mesures grâce aux outils les plus performants : <a href="http://www.linkdetox.com/" target="_blank">Link Detox</a> et l&rsquo;outil Désavouer des liens inclus dans les outils Google pour les webmasters. Deux astuces rapides :</p>
+<ul style="padding-left: 30px">
+<li>Si plus de 5 % des liens contiennent le même mot-clé (par exemple, acheter des e-books en ligne) dans le texte d&rsquo;ancrage, vous êtes exposé ! (Pour savoir si vous êtes concerné, utilisez l&rsquo;outil de rapport gratuit sur le texte d&rsquo;ancrage de Majestic)</li>
+<li>Évitez d&rsquo;utiliser des liens de mauvaise qualité, tels que : réseaux et fermes de liens, liens en bas de page, listes de blog, blocs de liens, liens redirigeant vers un site entier, commentaires de blog, commentaires de forum, liens vers des profils et signatures de forum, annuaires Web et répertoires d&rsquo;articles.</li>
+</ul>
+<h4 style="color:#3369E8">Les pages de mon site e-commerce incluent-elles trop de mots-clés ?</h4>
+<p>Voici une question simple. Avez-vous sur-optimisé vos pages PrestaShop en les remplissant de mots-clés répétés ? Si vous répondez « oui » ou « peut-être », c&rsquo;est bien le cas.</p>
+<p>Commencez à réécrire vos pages avec du contenu à proprement parler. N&rsquo;utilisez pas le même mot-clé plus de 3 fois par page, plus particulièrement si votre contenu est court. Google sait ce que vous faites, alors pas d&rsquo;entourloupes !</p>
+<h4 style="color:#3369E8">Est-ce que mon contenu s&rsquo;adresse aux moteurs de recherche ou aux utilisateurs ?</h4>
+<p>Voici une autre question simple. Avez-vous écrit du contenu pour des utilisateurs humains ou des machines ? Une nouvelle fois, si vous répondez « oui » ou « peut-être », c&rsquo;est bien le cas. Ou procédez à ce que j&rsquo;appelle le « mama test » : si votre mère ne comprend pas ce que vous écrivez ou ce que vous vendez, il est dans votre intérêt de réécrire le contenu concerné. N&rsquo;oubliez pas, ce sont des utilisateurs humains qui achètent vos produits, pas Google.</p>
+<h4 style="color:#3369E8">Enfin, et c&rsquo;est important, la vitesse de chargement de mes pages est-elle plus lente qu&rsquo;une chanson d&rsquo;amour ?</h4>
+<p>Si tel est le cas, vous devez faire mieux. Utilisez les options de performances sous l&rsquo;onglet Préférences de votre Back-Office pour accélérer la vitesse de chargement de votre boutique PrestaShop. Tentez ensuite de réduire la taille des images, de transférer votre boutique sur un serveur dédié, d&rsquo;évaluer votre serveur Web grâce à l&rsquo;indicateur TTFB (Time to First Byte), d&rsquo;utiliser les réseaux de diffusion de contenu (Content Delivery Networks, CDN) pour réduire le temps de chargement moyen des images, du CSS et de JavaScript, voire d&rsquo;acheter un module de mise en cache dans la <a href="http://addons.prestashop.com/fr/recherche?search_query=cache">boutique Addons de PrestaShop</a>.</p>
+<h2 style="color:#00933B">Bonus : astuces pour les sites Web PrestaShop</h2>
+<p>Oui, je suis fier d&rsquo;utiliser PrestaShop depuis 4 ans maintenant. Je connais par conséquent son fonctionnement. Voici quelques astuces complémentaires qui peuvent vous aider à survivre aux pénalités de référencement :</p>
+<ul style="padding-left: 30px">
+<li><strong>Faites attention à l&rsquo;état de votre fichier robots.txt.</strong> Évitez TOUT paramètre non pertinent, particulièrement ceux qui sont créés par le module de navigation à facettes.</li>
+<li><strong>Consultez régulièrement le plan de votre site</strong> et n&rsquo;incluez pas de pages non pertinentes (page panier, commande, connexion, adresse, adresses, bon d&rsquo;achat, etc.</li>
+<li><strong>Importez vos fichiers CSV avec soin.</strong> Incluez la date de création du contenu, sinon, les produits peuvent être créés en 1.969, ce qui génère des erreurs dans le plan de site des outils Google pour les webmasters.</li>
+<li><strong>Créez soigneusement vos sous-domaines CDN.</strong> Parfois (lorsqu&rsquo;ils ne sont pas créés correctement), ils dupliquent le contenu. N&rsquo;hésitez pas à vérifier deux ou trois fois.</li>
+<li><strong>Améliorez en permanence la vitesse de votre site</strong> lorsqu&rsquo;il est en ligne ; utilisez l&rsquo;outil <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google Page Speed</a> et <a href="http://gtmetrix.com/" target="_blank">GTMetrix.com</a> pour générer des rapports utiles sur les améliorations pouvant être apportées.</li>
+</ul>
+<hr align="left" width="20%" />
+<p>Votre site Web a-t-il subi une pénalité Google ? Faites-nous part de vos solutions dans les commentaires ci-dessous. Vous venez de subir une pénalité ? Indiquez-nous quelle astuce vous allez mettre en place en priorité.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/">Affronter Google Panda : meilleures pratiques de référencement pour PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Paramètres simples et rapides pour booster la vitesse de votre boutique PrestaShop</title>
+		<link>https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/#comments</comments>
+		<pubDate>Thu, 05 Feb 2015 09:30:06 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18320</guid>
+		<description><![CDATA[<p>Tous vos produits ont été ajoutés et vous avez apporté la touche finale à votre boutique PrestaShop. Le moment est venu pour votre site e-commerce de sortir du mode maintenance. Vous actualisez votre page d&#8217;accueil, mais l&#8217;écran reste vide pendant 1, 2, 3, 4 secondes ! Malgré votre enthousiasme, vous vous demandez : « Pourquoi [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/">Paramètres simples et rapides pour booster la vitesse de votre boutique PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Tous vos produits ont été ajoutés et vous avez apporté la touche finale à votre boutique PrestaShop. Le moment est venu pour votre site e-commerce de sortir du mode maintenance. Vous actualisez votre page d&rsquo;accueil, mais l&rsquo;écran reste vide pendant 1, 2, 3, 4 secondes !</p>
+<p>Malgré votre enthousiasme, vous vous demandez : « Pourquoi ma boutique en ligne a-t-elle mis autant de temps à charger ? »<br />
+<span id="more-18320"></span><br />
+Beaucoup de commerçants se posent cette question, mais la réponse est très simple. Les paramètres de performance pour le développement de votre site ne sont pas les mêmes que pour la vitesse de chargement de vos pages. PrestaShop vous permet d&rsquo;alterner entre deux configurations : l&rsquo;une adaptée à la conception, l&rsquo;autre optimisée pour la vitesse. Nous vous présentons donc des paramètres simples et rapides qui vous aideront à booster la vitesse de votre boutique PrestaShop. Nous vous expliquons également le fonctionnement de chaque paramètre.</p>
+<p>Tout d&rsquo;abord, connectez-vous à votre back-office PrestaShop, et rendez-vous sur la page PARAMÈTRES AVANCÉS &gt; PERFORMANCE</p>
+<h2 style="color: #71bd39">Onglet Smarty</h2>
+<p>Sur cette page, vous trouverez l&rsquo;onglet <strong>SMARTY</strong>, qui correspond à votre thème ou à votre template. (<a href="http://www.smarty.net/" target="_blank">Smarty</a> est le nom du langage de template utilisé par les thèmes de PrestaShop.)</p>
+<p><strong>Compilation des templates :</strong> ce paramètre permet de déterminer si le site Web a besoin de recompiler ses instructions. Pourquoi les thèmes contiennent-ils des instructions ? Le template PrestaShop par défaut a été conçu pour être flexible et personnalisable, afin de répondre aux attentes de n&rsquo;importe quel e-commerçant. Nos éléments de conception ne sont donc pas statiques : chaque module de conception se connecte à votre boutique grâce à son propre ensemble d&rsquo;instructions de templates. Cela vous permet de personnaliser notre template par défaut.</p>
+<p style="padding-left: 30px"><strong>[X] Ne jamais recompiler les fichiers de templates</strong> – (Le plus rapide) Sélectionnez cette option si vous avez fini d&rsquo;éditer les fichiers et si la conception vous convient.<br />
+<strong>[ ] Recompiler les fichiers de templates s&rsquo;ils ont été mis à jour</strong> – (FRapide) Choisissez cette option si vous êtes un commerçant-développeur et que vous avez souvent besoin d&rsquo;éditer le thème de votre site. La page ne sera recompilée que si les fichiers du thème ont été modifiés.<br />
+<strong>[ ] Forcer la compilation</strong> – (Lent) Activez ce paramètre uniquement en cas de débogage de votre site. À chaque chargement de la page, le thème sélectionne à nouveau les éléments et détermine comment les afficher.</p>
+<p><strong>Cache :</strong> Le <a href="http://searchstorage.techtarget.com/definition/cache" target="_blank">cache</a> contient des fichiers stockés temporairement qui améliorent la performance et réduisent le temps de chargement.</p>
+<p style="padding-left: 30px"><strong>[X] OUI</strong> – Lorsque vous avez fini de personnaliser le thème de votre front-office, activez cette option pour permettre à vos clients de bénéficier d&rsquo;une meilleure performance sur votre site.<br />
+<strong>[ ] NON</strong> – L&rsquo;utilisation du cache est facultative uniquement lorsque vous êtes en train d&rsquo;apporter des modifications à votre thème. Si vous ne désactivez pas cette option, vous ne pourrez pas visualiser vos modifications immédiatement. Si vous êtes en train de travailler sur votre thème, videz votre cache pour vous assurer que les changements sont pris en compte sur toutes les pages.</p>
+<p><strong>Types de mise en cache : Système de fichier ou MySQL</strong> – Il est impossible de déterminer la meilleure de ces deux options, car la configuration de ce paramètre varie d&rsquo;une boutique à l&rsquo;autre. Tout dépend de la taille de votre base de données, de sa configuration et de son optimisation. Si vous utilisez une base de données de petite taille, vous aurez du mal à voir la différence.</p>
+<p><strong>Vider le cache :</strong></p>
+<p style="padding-left: 30px"><strong>[ ] Ne jamais vider les fichiers du cache</strong> – Utilisez ce paramètre si vous souhaitez que les fichiers du cache ne soient plus vidés. Cela peut être utile si vous faites de nombreuses modifications ou des éditions en masse (comme un import CSV) : vous ne voudriez pas que le cache soit constamment en train d’être vidé. Assurez-vous de désactiver cette option lorsque vous avez fini vos modifications, ou bien videz le cache manuellement.<br />
+<strong>[X] Vider le cache à chaque modification</strong> &#8211; Pas d&rsquo;explication nécessaire pour ce paramètre. Le cache de votre site se vide lorsqu&rsquo;une modification est apportée. Vous êtes ainsi assuré que vos clients utilisent la toute dernière version de votre site.</p>
+<p><strong>BONUS:</strong> Si vous souhaitez disposer d&rsquo;un meilleur contrôle sur la fréquence et le nombre de pages mises en cache, téléchargez notre module <a href="http://addons.prestashop.com/fr/referencement-seo-modules-prestashop/6413-cache-manager.html" target="_blank">Cache Manager</a> premium, développé par notre communauté, sur PrestaShop Addons.</p>
+<h2 style="color: #71bd39">Fonctionnalités désactivables</h2>
+<p>En désactivant les fonctionnalités suivantes, votre site pourrait très légèrement gagner en vitesse. Elles ont également pour effet de limiter les fonctionnalités de PrestaShop et vous empêchent de profiter pleinement du potentiel du logiciel.</p>
+<p>Note : si l&rsquo;affichage de ces options est grisé et que vous ne pouvez pas les désactiver, cela veut dire que<br />
+vous êtes déjà en train de les utiliser.</p>
+<h2 style="color: #71bd39">CCC (Concaténation, Compression et mise en Cache)</h2>
+<p>CCC est un ensemble d&rsquo;outils qui vous aide à minimiser le temps de chargement du site Web. Fonctionnalités :</p>
+<p style="text-align: center;font-style: italic">CCC combine les fichiers textuels de même type en un seul fichier plus gros, ce qui réduit le nombre de fichiers à télécharger ; il compresse ensuite le fichier à l&rsquo;aide de l&rsquo;algorithme Zip commun, ce qui améliore la vitesse des téléchargements. Enfin, il met le fichier compressé en cache afin d&rsquo;éviter au serveur de devoir relancer ce processus de concaténation et de compression à chaque fois qu&rsquo;une page charge, pour moins solliciter le processeur du serveur.</p>
+<p>Attention cependant, certaines fonctionnalités peuvent modifier votre thème : assurez-vous donc de les activer une par une. N&rsquo;oubliez pas non plus de tester votre site Web après toute modification.</p>
+<p><strong>« Smart cache » pour les feuilles de style : [OUI]</strong> &#8211; Combiner, compresser et mettre les fichiers de type CSS en cache.<br />
+<strong>« Smart cache » pour le code JavaScript* : [OUI] </strong> &#8211; Combiner, compresser et mettre les fichiers de type JavaScript en cache.<br />
+<strong>Réduction du code HTML : [OUI]</strong> – Cette configuration permet de supprimer tous les espaces inutiles dans le code HTML générés par le template Smarty.<br />
+<strong>Compression du JavaScript* dans le code HTML : [OUI]</strong> – Si votre thème utilise des JavaScripts, compressez-les pour améliorer le temps de chargement.<br />
+<strong>Déplacer JavaScript* à la fin : [OUI]</strong> &#8211; Déplacez JavaScript à la fin pour le forcer à charger en dernier, ce qui permet à votre page Web de charger les éléments les plus simples de votre site en premier.</p>
+<p>* Ces paramètres agissent sur JavaScript, parfois utilisé dans la conception des thèmes, et peuvent donc modifier votre thème.</p>
+<h2 style="color: #71bd39">Maintenant, c&rsquo;est à vous</h2>
+<p>Êtes-vous prêt à booster la vitesse de votre boutique PrestaShop ? Voici un aperçu des configurations à choisir pour un temps de chargement quasi instantané.</p>
+<div style="height: 400px"><img class="alignleft  wp-image-19480" alt="smarty" src="http://www.prestashop.com/blog/fr/files/2015/02/smarty_fr.png" width="280" height="298" /><img class="alignleft  wp-image-19481" alt="ccc" src="http://www.prestashop.com/blog/fr/files/2015/02/ccc_fr.png" width="248" height="378" /></div>
+<hr align="left" width="20%" />
+<p>Pour en savoir plus sur les paramètres avancés de votre boutique en ligne, consultez notre <a style="font-weight: bold" href="http://doc.prestashop.com/display/PS16/Understanding+the+Advanced+Parameters" target="_blank">documentation en ligne officielle</a>. Si vous utilisez une ancienne version de PrestaShop, vous trouverez cette documentation dans <a href="http://doc.prestashop.com/dashboard.action" target="_blank">nos archives</a>. Consultez également notre autre <a href="http://www.prestashop.com/blog/en/10-best-tips-to-speed-up-your-prestashop-store-3/">article de blog concernant les méthodes pour booster la vitesse de votre site</a>.</p>
+<p>Combien de temps de chargement avez-vous gagné avec nos paramètres recommandés ? Faites-nous part de vos résultats dans les commentaires.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/">Paramètres simples et rapides pour booster la vitesse de votre boutique PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Ecommerce Pour Tous</title>
+		<link>https://www.prestashop.com/blog/fr/ecommerce-pour-tous/</link>
+		<comments>https://www.prestashop.com/blog/fr/ecommerce-pour-tous/#comments</comments>
+		<pubDate>Fri, 30 Jan 2015 14:18:08 +0000</pubDate>
+		<dc:creator><![CDATA[Bruno Lévêque]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18307</guid>
+		<description><![CDATA[<p>Lorsque j&#8217;ai fondé PrestaShop il y a 7 ans, mon idée était avant tout de créer une communauté de passionnés d&#8217;e-commerce à travers le monde. Je savais qu&#8217;en nous appuyant sur la puissance de l&#8217;open source, nous pourrions bouleverser l&#8217;industrie e-commerce avec un logiciel de pointe qui démocratiserait le commerce en ligne ; un logiciel [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ecommerce-pour-tous/">Ecommerce Pour Tous</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-19495" alt="bleveque prestashop" src="http://www.prestashop.com/blog/fr/files/2015/01/bleveque-prestashop.jpg" width="170" height="203" align="left" /></p>
+<p>Lorsque j&rsquo;ai fondé PrestaShop il y a 7 ans, mon idée était avant tout de créer une communauté de passionnés d&rsquo;e-commerce à travers le monde. Je savais qu&rsquo;en nous appuyant sur la puissance de l&rsquo;open source, nous pourrions bouleverser l&rsquo;industrie e-commerce avec un logiciel de pointe qui démocratiserait le commerce en ligne ; un logiciel qui permettrait à chacun de lancer son propre site et de participer à la révolution de l&rsquo;e-commerce.</p>
+<p><span id="more-18307"></span></p>
+<p><iframe src="//player.vimeo.com/video/117911117" width="700" height="394" frameborder="0" title="Introducing PrestaShop - Ecommerce for everyone" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>Vous faites partie des 700 000 membres de la communauté PrestaShop à travers le monde et je tenais à vous en remercier.</p>
+<p>Aujourd&rsquo;hui marque une avancée sans précédent pour PrestaShop, sa communauté et le monde de l&rsquo;e-commerce : <strong>nous lançons officiellement PrestaShop Cloud</strong>. PrestaShop Cloud est la version hébergée &#8211; totalement gratuite &#8211; de notre logiciel open source téléchargeable, désormais appelé PrestaShop Download.<br />
+Nous sommes convaincus que PrestaShop Cloud va permettre à de très nombreux entrepreneurs à travers le monde de se lancer ou d&rsquo;établir une présence en ligne, gratuitement, sans aucune barrière technique ou financière. <strong>L&rsquo;e-commerce pour tous devient enfin possible.</strong></p>
+<p>Je vous invite dès à présent à nous rendre visite sur <a href="http://www.prestashop.com/fr/">notre nouveau site internet</a>,repensé spécialement à l&rsquo;occasion de ce lancement. Il arbore désormais une nouvelle interface qui affiche notre ambition : clarté, simplicité, facilité d&rsquo;accès. J&rsquo;espère que vous l&rsquo;aimerez autant que nous ! Le forum PrestaShop, véritable épicentre des interactions de notre communauté, reste bien sûr une partie très importante de ce nouveau site.</p>
+<p>Tout cela ne serait pas possible sans vous, sans votre soutien sans faille et vos précieuses contributions.</p>
+<p>Les 120 collaborateurs de PrestaShop se joignent à moi pour vous en remercier sincèrement. <strong>Nous savons que cette année sera pleine d&rsquo;innovation et de collaboration à vos côtés pour de grands succès e-commerce !</strong></p>
+<p>Votre opinion compte beaucoup à mes yeux. N&rsquo;hésitez pas à partager avec moi vos impressions en me contactant directement par email : <a href="mailto:bl@prestashop.com">bl@prestashop.com</a>.</p>
+<p>A très bientôt,</p>
+<p>Bruno Lévêque, Fondateur de PrestaShop</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ecommerce-pour-tous/">Ecommerce Pour Tous</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/ecommerce-pour-tous/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Refonte de site e-commerce : les aspects SEO à considérer</title>
+		<link>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/</link>
+		<comments>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18234</guid>
+		<description><![CDATA[<p>Quelles sont les problématiques SEO à considérer lors d’une refonte de site e-commerce ? Comment s’assurer que la nouvelle version de votre boutique en ligne conservera sur le long terme le référencement acquis jusqu’à maintenant ? Je vous présente dans cet article l’ensemble des éléments SEO à contrôler à l’occasion de tout projet de refonte. [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/">Refonte de site e-commerce : les aspects SEO à considérer</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Quelles sont les problématiques SEO à considérer lors d’une refonte de site e-commerce ? Comment s’assurer que la nouvelle version de votre boutique en ligne conservera sur le long terme le référencement acquis jusqu’à maintenant ? Je vous présente dans cet article l’ensemble des éléments SEO à contrôler à l’occasion de tout projet de refonte.</p>
+<p><span id="more-18234"></span></p>
+<h4 style="color: #76b32a">Qui est concerné ?</h4>
+<p>Cet article s’adresse essentiellement aux e-commerçants disposant déjà d’un site e-commerce et ayant entrepris la refonte de celui-ci.</p>
+<p>Le cas typique se retrouve lors d’un changement de logiciel e-commerce, vous utilisiez une technologie différente et avez été convaincu de passer à <a href="http://www.prestashop.com">PrestaShop</a> comme des milliers de marchands chaque année. Ou encore vous aviez une ancienne version de PrestaShop et avez souhaité lancer une refonte afin de disposer des dernières fonctionnalités de PrestaShop.</p>
+<p><strong style="color: #c91202">IMPORTANT :</strong><br />
+L’ensemble du travail qu’impliquent les recommandations ci-dessous doit être effectué avant la bascule entre votre ancien et nouveau site de vente en ligne.</p>
+<p><strong style="color: #c91202">ATTENTION :</strong><br />
+Cet article ne s’adresse pas aux boutiques souhaitant changer de nom de domaine, le travail SEO à réaliser est alors différent et cet article ne traite pas de cette question.</p>
+<h4 style="color: #76b32a">Quels avantages et pourquoi sécuriser votre migration ?</h4>
+<ul style="padding-left: 30px">
+<li>Le trafic direct arrivant sur vos anciennes pages sera automatiquement redirigé vers votre nouveau site web.</li>
+<li>Les liens pointant vers les pages de votre ancienne boutique ne tomberont pas vers des erreurs 404.</li>
+<li>Grâce à votre travail sur la structure, la pertinence SEO de votre boutique sera conservée sur le long terme.</li>
+<li>La continuité de votre référencement est ainsi assurée et vous ne constaterez pratiquement aucun changement de trafic entre avant et après la migration.</li>
+</ul>
+<h4 style="color: #76b32a">Les 2 aspects à sécuriser lors de la refonte de votre boutique :</h4>
+<ul style="padding-left: 30px">
+<li>La structure de votre nouveau site e-commerce</li>
+<li>Les redirections 301 à mettre en place</li>
+</ul>
+<h2>Un peu de structure</h2>
+<p>Si vous ne l’avez pas déjà lu… je vous invite à consulter cet article portant sur la <a href="http://www.prestashop.com/blog/fr/structurer-votre-boutique-en-ligne-avec-vos-mots-cles-seo-partie-22/">création d’une structure « SEO friendly » pour un site e-commerce</a>.</p>
+<h4 style="color: #76b32a">Concevoir la structure de votre nouvelle boutique en ligne</h4>
+<p>L’objectif de cette étude préliminaire est pour vous de savoir quelles catégories de produits conserver pour votre nouvelle version. Un principe de base est de garder ce qui fonctionne et faire évoluer ce qui ne fonctionne pas.</p>
+<p>Votre nouvelle boutique a pour objectif de faire mieux que la précédente alors ne supprimez pas les catégories qui vous apportent du trafic SEO et des ventes. Vous devrez absolument recréer ces mêmes catégories sur votre nouvelle boutique.</p>
+<h4 style="color: #76b32a">Et un rapport Google Analytics en cadeau, UN !</h4>
+<p>Oups, vous ne savez pas (encore) comment accéder à ces données et vous avez Google Analytics correctement installé sur votre ancienne boutique ?</p>
+<p>Voici un rapport personnalisé Google Analytics qui devrait répondre à toutes ces questions :</p>
+<p style="text-align: center"><a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">SEO E-commerce report by PrestaShop</a> (Cliquez sur le lien pour ajouter le rapport)</p>
+<h4 style="color: #76b32a">Comment améliorer encore votre structure ?</h4>
+<p>Les projets de refonte sont toujours l’occasion de remettre en cause l’existant mais aussi d’apporter de nouveaux atouts à votre boutique :</p>
+<ul style="padding-left: 30px">
+<li>Allez visiter les boutiques de vos concurrents et inspirez vous de leurs bonnes idées, le benchmarking… ça marche en SEO&#8230; (à condition de ne pas non plus copier / coller).</li>
+<li>Repassez par la case étude sémantique et recherchez encore les <a href="http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/">mots clés à cibler en SEO</a>.</li>
+<li>Pour les marchands disposant déjà de campagnes Adwords, <a href="https://www.google.com/analytics/web/template?uid=6MOMFCgGSFWm8rEBqkJxgA" target="_blank">ce rapport analytics</a> sur les termes de recherche pourrait également vous être utile. Ce rapport correspond aux mots clés réellement tapés par vos visiteurs en provenance d’adwords (pas les mots clés achetés)</li>
+</ul>
+<h2>Cette page n’habite plus à cette adresse</h2>
+<h4 style="color: #76b32a">Les redirections 301 c’est quoi ?</h4>
+<p><span style="font-style: italic">Dans le monde réel&#8230;</span></p>
+<p><span style="font-style: italic">Lorsque vous déménagez et que vous souhaitez que « La Poste » transmette votre courrier à votre nouvelle adresse, vous remplissez un formulaire tel que :</span></p>
+<p style="text-align: center">Ancienne adresse postale -&gt; Nouvelle adresse postale</p>
+<p><span style="font-style: italic">Dans le monde virtuel&#8230;</span></p>
+<p><span style="font-style: italic">C’est la même chose et cela s’appelle une redirection 301. Lorsqu’une page web change d’URL, il faut donner une indication à votre serveur pour que toutes les requêtes soient renvoyées sur la nouvelle URL correspondante : </span></p>
+<p style="text-align: center">Ancienne URL -&gt; 301 redirect -&gt; Nouvelle URL</p>
+<h4 style="color: #76b32a">Les différents scénarios de redirections 301:</h4>
+<ul style="padding-left: 30px">
+<li>Le minimum vital et obligatoire :
+<ul style="padding-left: 15px">
+<li>Rediriger toutes vos anciennes URLs vers la page d’accueil de votre site e-commerce. Je ne suis pas adepte de ce scénario, mais il a l’intérêt d’être beaucoup plus simple à intégrer pour vous ou votre équipe technique.</li>
+</ul>
+</li>
+<li>Ma recommandation :
+<ul style="padding-left: 15px">
+<li>Faire des redirections page à page, en réalisant un lien entre votre ancienne structure et la nouvelle.</li>
+</ul>
+</li>
+</ul>
+<h4 style="color: #76b32a">Quand faut-il faire une redirection 301 :</h4>
+<ul style="padding-left: 30px">
+<li>Lorsqu’une ancienne page disparaît complètement : Rediriger cette page vers votre page d’accueil,</li>
+<li>Lorsqu’une page change d’adresse URL : il faut rediriger l’ancienne URL vers la nouvelle.</li>
+</ul>
+<h4 style="color: #76b32a">Comment trouver toutes les URLS de votre site ?</h4>
+<p>Afin de trouver toutes les URLs de votre ancien et de votre nouveau site, je conseille vivement d’utiliser un crawler tel que <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> (gratuit) ou <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog SEO</a> (Payant).</p>
+<p>Avec l’un ou l’autre de ces deux outils, vous pourrez très facilement récupérer la liste des URLs de votre ancien site et de votre nouveau site e-commerce et les exporter au sein d’un tableur Excel.</p>
+<h4 style="color: #76b32a">Faire correspondre les deux structures</h4>
+<p>Partez de votre ancienne arborescence, affichez la liste de ses URLs dans une colonne, 100% de ces URLs doivent soit être redirigées vers leur nouvel équivalent, soit vers la home.</p>
+<p>Lorsque vous avez terminé, je vous recommande de donner ce fichier excel à votre développeur ou agence web pour qu’il / elle l’intègre au fichier .htaccess de votre nouvelle boutique. Si vous avez peur de faire une erreur, je vous invite vivement à faire appel à un expert en référencement.</p>
+<h4 style="color: #76b32a">Deux cas où l’on ne fait pas de redirection 301</h4>
+<ul style="padding-left: 30px">
+<li>Lorsqu’une URL reste la même entre l’ancienne et la nouvelle version de votre site.</li>
+<li>Lorsqu’une nouvelle page est créée au sein de votre nouvelle arborescence et qui n’existait pas par le passé.</li>
+</ul>
+<h2>Le jour du lancement a sonné</h2>
+<h4 style="color: #76b32a">Lorsque tout est prêt pour lancer votre nouvelle boutique,</h4>
+<ul style="padding-left: 30px">
+<li>Placez votre domaine en maintenance en renvoyant le code 503</li>
+<li>Mettez en production votre nouvelle boutique (contenant les redirections 301 dans son .htaccess)</li>
+<li>Désactivez le code maintenance, votre nouveau site est donc live.</li>
+<li>Testez immédiatement les 301 en tapant une ancienne URL, vous devriez être redirigé automatiquement vers la nouvelle URL.</li>
+<li>Pensez aussi à vérifier que le http header renvoyé par votre serveur sur une ancienne URL est bien le code 301 (et pas un autre).</li>
+</ul>
+<p>Si tout est OK, vous avez réussi votre migration…</p>
+<h4 style="color: #76b32a">Vous avez apprécié cet article ?</h4>
+<p>C’est un marchand PrestaShop, lui-même en phase de migration, qui m’a donné l’idée de cet article lors d’un salon en 2014.</p>
+<p>Si vous aussi vous avez des questions, problématiques ou des sujets d’articles SEO que vous souhaiteriez que j’aborde en 2015, n’hésitez pas à contacter <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a> sur Twitter ou nous contacter sur notre page <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>.</p>
+<p>N’hésitez pas non plus à poser vos questions à propos de cet article dans les commentaires ci-dessous.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/">Refonte de site e-commerce : les aspects SEO à considérer</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Comment le marketing omnicanal peut aider votre petite entreprise</title>
+		<link>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18283</guid>
+		<description><![CDATA[<p>L&#8217;expérience de vente au détail change : les clients utilisent de plus en plus leur téléphone, leur tablette et leur ordinateur portable pour faire leurs achats. Selon une étude Forrester, 70 % des acheteurs ont utilisé un téléphone mobile pour rechercher des produits vendus en magasin. De plus, un rapport MIT a révélé que 80 [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/">Comment le marketing omnicanal peut aider votre petite entreprise</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L&rsquo;expérience de vente au détail change : les clients utilisent de plus en plus leur téléphone, leur tablette et leur ordinateur portable pour faire leurs achats. Selon une étude Forrester, 70 % des acheteurs ont utilisé un téléphone mobile pour rechercher des produits vendus en magasin. De plus, un rapport MIT a révélé que 80 % d&rsquo;entre eux vérifient les prix en ligne avant de réaliser un achat en boutique. Résultat : le concept de marketing « omnicanal » remplace progressivement les techniques de marketing grand public plus traditionnelles.</p>
+<p>Tandis que les exemples les plus impressionnants de marketing omnicanal ont été mis en place par les <a href="http://www.theguardian.com/media-network/media-network-blog/2013/jan/15/luxury-retailers-in-store-tech" target="_blank">plus grandes entreprises</a>, les plus petites peuvent s&rsquo;en inspirer pour améliorer l&rsquo;expérience client, fidéliser la clientèle et générer davantage de ventes. Dans l&rsquo;article d&rsquo;aujourd&rsquo;hui, nous allons expliquer ce que signifie omnicanal et comment ce type de marketing peut aider votre petite entreprise.<br />
+<span id="more-18283"></span></p>
+<h2>Multicanal, transcanal et omnicanal</h2>
+<p>Vous avez probablement déjà rencontré différents termes qui décrivent le marketing réalisé sur de multiples canaux. Connaissez-vous les concepts de multicanal, transcanal et omnicanal ? Chacun de ces concepts a ses propres spécificités, mais ils ont tous quelque chose en commun : leur objectif. Dans l&rsquo;environnement hyperconnecté de la vente au détail d&rsquo;aujourd&rsquo;hui, cet objectif consiste à créer une expérience client fluide, homogène et authentique où que vos clients se trouvent, quels que soient les produits que vous vendez, et ce, à tout moment.</p>
+<p>D&rsquo;où l&rsquo;émergence du concept de « vente au détail omnicanale » dans le milieu du marketing. Omni est une locution latine qui signifie « tout ou de toute chose » et, pour les commerçants, elle signifie connecter et harmoniser les informations et l&rsquo;expérience sur l&rsquo;ensemble des canaux où ils sont présents. Toute dernière évolution au sein des stratégies multicanales, ce concept couvre plusieurs aspects, des bonnes pratiques en matière de transcanal à un nouveau paradigme de vente au détail (certains spécialistes en marketing vont encore plus loin en suggérant que l&rsquo;omnicanal est la nature sans frontière de la stratégie qui implique une <a href="http://omnichannel.me/what-is-omnichannel/" target="_blank">nouvelle définition</a> de « votre » client).</p>
+<p>Mais, surtout, l&rsquo;omnicanal nécessite une intégration back-end complète. Concrètement, il s&rsquo;agit d&rsquo;être en mesure de garantir que votre client puisse, par exemple, rechercher un produit sur Internet depuis son domicile, le commander plus tard via son smartphone ou sa tablette et le récupérer dans un magasin à proximité de leur trajet pour se rendre sur leur lieu de travail.</p>
+<h2>Le marketing omnicanal au service de l&rsquo;e-commerce</h2>
+<p>Que vous possédiez une boutique 100 % en ligne ou plusieurs magasins de bricolage, vous pouvez tirer parti des principes du marketing omnicanal pour améliorer votre visibilité, générer plus de conversions et convertir vos visiteurs en clients réguliers. Voici quelques suggestions pour y parvenir.</p>
+<h4 style="color: #46c0d7">Ajouts pertinents de canaux</h4>
+<p>Il peut être tentant de vouloir être présent partout, tout de suite. Après tout, c&rsquo;est ce que veulent les clients, non ? C&rsquo;est exact, mais ce qu&rsquo;ils souhaitent plus encore, c&rsquo;est de bénéficier d&rsquo;une expérience exceptionnelle. Pour leur offrir cette expérience, vous devrez peut-être travailler tout d&rsquo;abord à optimiser votre présence sur un ou deux canaux, pour ensuite l&rsquo;étendre à d&rsquo;autres et vous assurer ainsi que votre approche est efficace. Identifiez clairement les raisons qui vous poussent à exploiter un nouveau canal et votre objectif. Si vous ne maîtrisez pas complètement la gestion au quotidien de votre boutique d&rsquo;e-commerce, vous n&rsquo;êtes peut-être pas encore prêt à ouvrir un magasin physique.</p>
+<h4 style="color: #46c0d7">La crédibilité par la cohérence</h4>
+<p>L&rsquo;un des piliers du marketing omnicanal est la cohérence. Vérifiez que les prix affichés dans votre boutique en ligne, sur vos sites marchands et dans votre magasin physique (le cas échéant) sont identiques et que les clients bénéficient des mêmes remises. Si vous utilisez des remises ciblées pour attirer des visiteurs sur un canal en particulier (des offres spéciales Web par exemple), veillez à ce qu&rsquo;elles soient clairement identifiables pour que les visiteurs soient bien informés des prix que vous proposez sur vos différents canaux.</p>
+<p>Un autre élément de cohérence est la diffusion d&rsquo;une image de marque homogène. Cela peut être aussi simple que de vous assurer que le design de votre site correspond à celui des brochures que vous distribuez sur le marché les samedis. Ou encore de vérifier que votre personnel en boutique dispose des mêmes informations sur les commandes clients que votre équipe d&rsquo;assistance en ligne pour que vos clients bénéficient d&rsquo;un service rapide, où qu&rsquo;ils réalisent leurs achats.</p>
+<h4 style="color: #46c0d7">Organisation en arrière-plan pour une rationalisation accrue</h4>
+<p>La gestion des stocks est un point clé à considérer dans le cadre d&rsquo;une stratégie omnicanale. De nombreux clients utilisent Internet pour effectuer des recherches avant de se rendre en boutique pour réaliser leur achat à proprement parler. D&rsquo;autres parcourent les magasins pour tester les produits, puis rentrent chez eux pour les commander sur leur tablette. Soyez prêt à accueillir tous les types de clients ! Si un client découvre votre produit en ligne, vous devez vous assurer qu&rsquo;il sera disponible en magasin et vice versa.</p>
+<p>La logistique est un autre élément pour lequel les marchands peuvent renforcer la cohérence nécessaire à l&rsquo;élaboration d&rsquo;une stratégie omnicanale. Veillez à ce que vos clients aient le choix : ils seront ravis d&rsquo;apprendre qu&rsquo;ils peuvent régler leurs achats en ligne et les récupérer dans un magasin physique ou se rendre en magasin et faire expédier leur commande.</p>
+<p>Enfin, les clients s&rsquo;attendent à bénéficier d&rsquo;une expérience de paiement rapide, simple et sécurisée, où qu&rsquo;ils se trouvent. Ils ne veulent pas avoir de contraintes en termes de moyens de paiement. Assurez-vous par conséquent que vous prenez en charge tous les types de paiements, des espèces aux portefeuilles numériques, en fonction de vos canaux.</p>
+<h4 style="color: #46c0d7">L&rsquo;importance de la personnalisation</h4>
+<p>Avec la cohérence, la personnalisation est une caractéristique essentielle de l&rsquo;omnicanal. Les clients exigent de vous que vous répondiez à leurs besoins uniques. Les petites entreprises ont l&rsquo;avantage sur les plus grandes, car elles ont tendance à cibler une niche plus restreinte de clients et à offrir un niveau de service beaucoup plus élevé. Utilisez les données commerciales pour créer des campagnes marketing sur mesure ainsi qu&rsquo;une expérience d&rsquo;achat personnalisée grâce à des suggestions de produits soigneusement sélectionnées et des offres surprises.</p>
+<h4 style="color: #46c0d7">Mieux connaître vos clients</h4>
+<p>La seule façon d&rsquo;offrir une expérience personnalisée est d&rsquo;apprendre à connaître vos clients. Utilisez les réseaux sociaux pour en savoir plus sur leurs besoins. Soyez prêt à laisser vos clients décider de la fréquence et du moment de vos échanges. Facilitez l&rsquo;accès aux réseaux sociaux et aux commentaires, et proposez différentes fréquences d&rsquo;envoi de votre newsletter.</p>
+<h2>Pour résumer</h2>
+<ul>
+<li>Préférez la qualité à la quantité et étendez votre présence à d&rsquo;autres canaux de façon pertinente.</li>
+<li>Fidélisez vos clients grâce à une image de marque et des prix cohérents sur l&rsquo;ensemble des canaux.</li>
+<li>Rationalisez la gestion des stocks, les expéditions et les paiements grâce à une organisation en arrière-plan.</li>
+<li>Utilisez les données clients pour créer une expérience d&rsquo;achat personnalisée.</li>
+<li>Entrez en contact avec vos clients via les réseaux sociaux.</li>
+</ul>
+<p>Les techniques omnicanales ne sont pas réservées aux grandes entreprises. Les petites entreprises peuvent tirer profit d&rsquo;une expérience d&rsquo;achat intégrée, homogène et personnalisée. Avez-vous mis en place une stratégie omnicanale ? Faites-nous part de votre expérience.</p>
+<p>Si vous n&rsquo;êtes pas encore présent en ligne, découvrez le <a href="https://www.prestashop.com/">logiciel e-commerce de PrestaShop</a> et créez votre boutique en ligne pour étendre votre présence à un autre canal de vente au détail.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/">Comment le marketing omnicanal peut aider votre petite entreprise</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 règles d&#8217;or pour optimiser la page de paiement et booster la conversion</title>
+		<link>https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/</link>
+		<comments>https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/#comments</comments>
+		<pubDate>Thu, 22 Jan 2015 03:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=18089</guid>
+		<description><![CDATA[<p>Alors que la plupart des entrées en magasin physique aboutissent à une dépense, le taux de conversion sur Internet n’est que de quelques pour cent. Comment améliorer son taux de conversion? C’est la question que se posent tous les e-commerçants. Le design du site, la présence de vidéos, les multiples photos des produits sous différents [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/">4 règles d&rsquo;or pour optimiser la page de paiement et booster la conversion</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Alors que la plupart des entrées en magasin physique aboutissent à une dépense, le taux de conversion sur Internet n’est que de quelques pour cent. Comment améliorer son taux de conversion? C’est la question que se posent tous les e-commerçants.<br />
+Le design du site, la présence de vidéos, les multiples photos des produits sous différents angles de vues influent fortement le passage à l’acte d’achat sur un site web. Mais la page de paiement est également un point stratégique pour optimiser la conversion.</p>
+<p>David Chaouat, Partner Manager chez Ingenico Payment Services et expert en services de paiement en ligne vous dévoile les quatre règles d’or qui vous permettront d’optimiser rapidement votre page de paiement et booster votre taux de conversion.<br />
+<span id="more-18089"></span></p>
+<h2 style="color: #73bd43;">1. Eléments de réassurance</h2>
+<p>Fournir un univers de confiance tout au long de l’expérience d’achat est un élément fondamental. Si un client n’a pas confiance lorsqu’il est sur votre site e-commerce, il ne finalisera pas son achat chez vous !<br />
+Réfléchissez bien à l’expérience client que vous souhaitez offrir lors du check-out. Si votre marque est peu connu ou pas encore assez visible sur le marché, privilégiez une redirection apparente sur la page du tiers de confiance (PSP ou banque). Ainsi vous vous adossez à un partenaire reconnu et bénéficiez de son gage de confiance. (Certificat SSL, référence de la transaction, logos des partenaires bancaires…)<br />
+Si votre marque est déjà très connue et inspire confiance, alors vous pouvez opter pour un tunnel de commande intégrée dans lequel la redirection vers le tiers de confiance n’est pas visible. Dans ce cas, n’oubliez pas les éléments essentiels pour la page de paiement : certificat SSL, le montant de la transaction, la référence de la transaction et un logo de confiance connu et reconnu sur le marché (banque, PSP, Verisign…)</p>
+<h2 style="color: #73bd43;">2. Offrir les moyens de paiement adaptés</h2>
+<p>En laissant vos clients choisir comment payer, ils seront plus enclins à finaliser leur achat. Par exemple : un consommateur hollandais préférera payer avec « Ideal » tandis qu’un consommateur français avec une « CB ». Assurez vous donc que votre partenaire de paiement vous offre les moyens de paiements incontournables et que leur déploiement est facile et transparent.<br />
+Ensuite, adaptez votre page de paiement en proposant un affichage dynamique des méthodes de paiement en fonction de la localisation de vos clients ou de leur nationalité. N’affichez pas tous les moyens de paiement d’un seul bloc, segmentez le choix afin d’adresser uniquement les moyens de paiement pertinents.</p>
+<h2 style="color: #73bd43;">3. Personnalisation du design de la page aux couleurs de la boutique</h2>
+<p>Afin de ne pas avoir une fracture visuelle entre l’univers de votre site et la page de paiement du prestataire, nous vous conseillons de personnaliser un minium celle-ci. L’important est d’afficher une page claire et fluide : le simple faite de poser votre logo, d’utiliser les couleurs et polices de votre site suffit en général pour atténuer la rupture. Si vous le pouvez pensez à ajouter un numéro de téléphone de votre support, qui vous permettra de récupérer la vente en cas de problème.<br />
+Pour les plus sensibles à la rupture, vous pouvez aussi ajouter un fil d’Ariane et des liens de retours possibles sur votre site. Le consommateur, qui est maintenant bien informé, s’attend à avoir une page de paiement extérieure au site. Il appréhende donc de moins en moins la rupture.</p>
+<h2 style="color: #73bd43;">4. Page de paiement adaptée à tous les supports</h2>
+<p>Votre site est sans doute déjà décliné et adapté à différents supports (PC, tablette, Smartphone). Ce serait donc dommage de ruiner tous vos efforts en n’offrant pas également une page de paiement adapté. Lorsque votre client navigue depuis son Smartphone, l’étape de paiement doit également s’afficher de manière fluide et pratique. Il finalisera plus facilement son achat s’il n’a pas besoin de zoomer et scroller pour pouvoir entrer les données de sa carte.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18265" alt="ingenico" src="http://www.prestashop.com/blog/fr/files/2015/01/ingenico.jpg" width="480" height="197" /></p>
+<p>Ingenico Payment est le partenaire idéal pour mettre en pratique les conseils de cet article et accroitre vos ventes. En téléchargeant le module de paiement Ingenico Payment vous protègerez également votre entreprise de la fraude pour une activité en ligne prospère et sereine !</p>
+<p><a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/1798-ogone.html" target="_blank">Téléchargez gratuitement Ingenico Payment</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/">4 règles d&rsquo;or pour optimiser la page de paiement et booster la conversion</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Faux préjugé : pourquoi un choix réduit booste les ventes</title>
+		<link>https://www.prestashop.com/blog/fr/faux-prejuge-choix-reduit-booste-les-ventes/</link>
+		<comments>https://www.prestashop.com/blog/fr/faux-prejuge-choix-reduit-booste-les-ventes/#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 08:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Shabbir Nooruddin (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18230</guid>
+		<description><![CDATA[<p>Lorsque vous gérez une boutique en ligne, il est tentant de proposer le plus de produits possible : après tout, plus il y a de produits, plus les ventes sont nombreuses, non ? Plus vous offrez de produits, plus vous avez de chances qu&#8217;un visiteur qui parcourt votre catalogue trouve quelque chose qui l&#8217;intéresse ou [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/faux-prejuge-choix-reduit-booste-les-ventes/">Faux préjugé : pourquoi un choix réduit booste les ventes</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Lorsque vous gérez une boutique en ligne, il est tentant de proposer le plus de produits possible : après tout, plus il y a de produits, plus les ventes sont nombreuses, non ?</p>
+<p>Plus vous offrez de produits, plus vous avez de chances qu&rsquo;un visiteur qui parcourt votre catalogue trouve quelque chose qui l&rsquo;intéresse ou qu&rsquo;il aime, et l&rsquo;achète, pas vrai ?</p>
+<p>C&rsquo;est le cas si vous gérez Amazon ou Walmart. Mais si vous êtes propriétaire d&rsquo;une petite entreprise, comme la plupart d&rsquo;entre nous, vous risquez de rencontrer quelques difficultés avec ce type de catalogue.</p>
+<p><span id="more-18230"></span></p>
+<h4><span style="color: #2f5288;">Le modèle Amazon et Walmart</span></h4>
+<p>Amazon et Walmart existent depuis des années. Au fil du temps, ces deux enseignes ont perfectionné leur modèle de boutique « multi-articles », concept sur lequel elles reposent.</p>
+<p>Pour être des boutiques « multi-articles », elles doivent acheter en gros, dépenser des millions de dollars pour sécuriser des stocks de faible valeur, vendre leurs produits en réalisant très peu de marge et prévoir de compenser les pertes grâce au volume.</p>
+<p>Elles dépensent également des millions et des millions de dollars en publicité pour attirer des clients. En effet, Amazon est l&rsquo;un des <a href="http://www.wordstream.com/articles/google-earnings" title="Google Adwords" target="_blank">clients les plus importants de Google Adwords</a>.</p>
+<p>Vous avez peut-être remarqué que j&rsquo;ai utilisé le mot « millions » quelques fois dans les paragraphes précédents. À moins que vous ayez des millions à dépenser en publicité, ce qui n&rsquo;est certainement pas mon cas, il est extrêmement probable que vous ne parveniez pas à vendre de tout.</p>
+<h4><span style="color: #2f5288;">Les autres modèles : ce que nous faisons (et ne devrions pas faire)</span></h4>
+<p>Même si la plupart des nouveaux e-commerçants ne commettent pas l&rsquo;erreur de répertorier tout et n&rsquo;importe quoi dans leur boutique, ils ont tout de même tendance à en faire trop.</p>
+<p>Avec une multitude de produits, vous risquez de vous éparpiller ; pensez au proverbe « À vouloir trop avoir, l&rsquo;on perd tout ».</p>
+<p>Qu&rsquo;est-ce que j&rsquo;entends par « trop » ? Imaginons que vous souhaitiez ouvrir une boutique spécialisée dans le café. Une nouvelle boutique s&rsquo;appuyant sur une stratégie excessive tenterait de proposer tous les modèles de machines à café existants, ainsi que des filtres et des centaines de variétés de cafés différents.</p>
+<p>Amazon est présent sur tous les plans, car l&rsquo;enseigne a passé la majeure partie de ses 20 ans d&rsquo;existence à cultiver la crédibilité de son image de marque. Une nouvelle boutique qui tenterait d&rsquo;offrir la même diversité de produits ne susciterait pas le même respect et parviendrait difficilement à attirer des clients.</p>
+<h4><span style="color: #2f5288;">Moins de produits, plus de ventes</span></h4>
+<p>Dans le domaine du e-commerce, une sélection réduite de produits est parfois synonyme de ventes accrues pour les petites entreprises. Si vous vendez des produits disponibles sur Amazon, vos performances doivent être excellentes pour assurer votre rentabilité. Pour être compétitif par rapport aux principaux acteurs du secteur, il est parfois utile de resserrer votre sélection de produits.</p>
+<p>Un nombre réduit de produits passe pour une preuve d&rsquo;expertise. Personne ne se rend sur le site d&rsquo;Amazon en pensant : « Ils connaissent vraiment bien leurs produits. Je suis sûr qu&rsquo;ils sauront répondre à toutes mes questions ».<br />
+En réalité, les informations produit sont tellement peu nombreuses sur Amazon qu&rsquo;un pan entier de sites Web spécialisés dans les avis sur les produits existe, pour diriger les utilisateurs directement vers Amazon !</p>
+<p>Si vous visitez maintenant une boutique e-commerce spécialisée dans un seul type de produit, vous savez que les vendeurs sont des experts : ils écouteront vos préoccupations et vous aideront à choisir le produit adapté à vos besoins. Ils jouent à la fois le rôle de boutique en ligne et de site Web d&rsquo;avis sur les produits.</p>
+<h4><span style="color: #2f5288;">Pour votre stratégie, pensez plus petit</span></h4>
+<p>Qu&rsquo;est-ce que « plus petit » signifie ? Très simplement, cela signifie de retirer des produits et de réduire votre offre pour répondre à des besoins client plus spécifiques. Pour identifier les produits à écarter, vous devez tout d&rsquo;abord comprendre votre client. </p>
+<p><a href="http://www.ecommercefuel.com/inside-relaunch-online-store/" title="Andrew Youderian" target="_blank">Andrew Youderian s&rsquo;est rendu compte</a> par exemple, que la plupart des clients de son ancienne boutique de propulseurs électriques recherchaient en fait des propulseurs d&rsquo;étrave électriques. Il a ainsi rétréci son offre pour proposer des propulseurs d&rsquo;étrave électriques plus spécifiques.</p>
+<p>Si votre boutique est déjà ouverte, examinez vos commandes et tentez d&rsquo;identifier des tendances : il est probable que certains de vos produits se vendent beaucoup mieux que les autres. Voici l&rsquo;opportunité que vous recherchez. Identifiez la demande et concentrez vos efforts marketing dans les domaines où vous êtes déjà considéré comme un expert. </p>
+<p>Si vous n&rsquo;avez pas encore de boutique, consultez les forums et les subreddits en lien avec votre futur marché pour déterminer les dénominateurs communs ou les tendances. Vous pourrez ainsi développer votre concept autour d&rsquo;un besoin réel. Une autre approche consiste à couvrir un champ plus vaste pour commencer, dans l&rsquo;objectif de se spécialiser à mesure que des tendances apparaissent.</p>
+<h4><span style="color: #2f5288;">Pour résumer</span></h4>
+<p>Pour réussir dans le domaine du e-commerce, les petites entreprises doivent proposer une sélection réduite de produits. Lorsque vous aurez des visiteurs et une base de clients, vous pourrez alors envisager d&rsquo;étendre votre offre en y intégrant des produits soigneusement choisis qui plairont à coup sûr à vos acheteurs.</p>
+<h4><span style="color: #2f5288;">Sur Shabbir :</span></h4>
+<p>Shabbir Nooruddin est entrepreneur en e-commerce et blogueur sur <a href="http://bootstrappingecommerce.com/" title="Bootstrapping Ecommerce" target="_blank">Bootstrapping Ecommerce</a>. Il crée des entreprises et des solutions e-commerce et passe son temps libre à s&rsquo;entraîner à la salle de sport ou à piloter des hélicoptères miniatures.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/faux-prejuge-choix-reduit-booste-les-ventes/">Faux préjugé : pourquoi un choix réduit booste les ventes</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/faux-prejuge-choix-reduit-booste-les-ventes/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>3 pistes pour remédier à la baisse des ventes en ce début d&#8217;année</title>
+		<link>https://www.prestashop.com/blog/fr/3-pistes-remedier-baisse-ventes-en-ce-debut-dannee/</link>
+		<comments>https://www.prestashop.com/blog/fr/3-pistes-remedier-baisse-ventes-en-ce-debut-dannee/#comments</comments>
+		<pubDate>Tue, 20 Jan 2015 08:43:18 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18260</guid>
+		<description><![CDATA[<p>Les fêtes de fin d&#8217;année ont beau être terminées, les opportunités de vente en ligne restent d&#8217;actualité. En effet, le début d&#8217;année est une période plus que jamais favorable aux boutiques e-commerce grâce à la popularité croissante des cartes cadeaux et des achats en ligne en général. Nombreux sont les acheteurs qui évitent complètement la [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-pistes-remedier-baisse-ventes-en-ce-debut-dannee/">3 pistes pour remédier à la baisse des ventes en ce début d&rsquo;année</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Les fêtes de fin d&rsquo;année ont beau être terminées, les opportunités de vente en ligne restent d&rsquo;actualité. En effet, le début d&rsquo;année est une période plus que jamais favorable aux boutiques e-commerce grâce à la popularité croissante des cartes cadeaux et des achats en ligne en général.</p>
+<p>Nombreux sont les acheteurs qui évitent complètement la période des fêtes de fin d&rsquo;année et préfèrent attendre le début d&rsquo;année pour faire certains achats, lorsqu&rsquo;ils savent que les produits qui les intéressent afficheront des prix beaucoup plus bas. La stratégie la plus répandue pour écouler des stocks est d&rsquo;offrir de grosses promotions en début d&rsquo;année, mais si ces dernières ne suivent pas une certaine logique, elles peuvent ressembler à des appels à l&rsquo;aide désespérés.<br />
+<span id="more-18260"></span></p>
+<p>Voici quelques pistes pour garantir une activité prospère après l&rsquo;effervescence de fin d&rsquo;année et entretenir de bonnes relations avec vos clients, nouveaux comme existants.</p>
+<h2 style="color: #5e8f71">Retours et échanges</h2>
+<p>Vos clients sont épuisés par les fêtes de fin d&rsquo;année et redoutent de devoir retourner ou échanger leurs cadeaux. Si vous leur offrez une expérience simple, ou, mieux encore, agréable, vous pouvez tirer parti de ces appréhensions pour fidéliser vos clients.</p>
+<p><strong>Les clients insatisfaits : des clients comme les autres</strong><br />
+Vous avez travaillé dur pour préparer votre boutique en ligne pour les fêtes de fin d&rsquo;année et garantir à vos clients une expérience exceptionnelle. Ne vous arrêtez pas maintenant : les échanges et les retours ne sont pas une partie de plaisir, mais ils représentent une opportunité remarquable d&rsquo;impressionner vos clients grâce à un service attentionné et personnalisé.</p>
+<p><strong>La discussion instantanée, pour être à l&rsquo;écoute de vos clients</strong><br />
+La meilleure façon de faciliter le processus d&rsquo;échange et de retour est d&rsquo;intégrer une politique simple, clairement énoncée sur votre site. Ajoutez des fonctionnalités avancées de <span style="text-decoration: underline">discussion instantanée</span>, et vous aurez la chance de pouvoir démontrer vos compétences en service client grâce à une assistance conviviale en temps réel. Cerise sur le gâteau, vous pouvez personnaliser vos fenêtres de discussion instantanée avec des photos de personnes réelles, et pas de produits figés.</p>
+<p><strong>Réduction des échanges grâce à une offre incitative que vos clients ne pourraient refuser</strong><br />
+Changez de perspective : un retour peut représenter une opportunité exceptionnelle de fidéliser vos clients sur le long terme. Pourquoi ne pas offrir les frais de port ou une modeste remise si le client décide d&rsquo;échanger son produit plutôt que d&rsquo;en demander le remboursement ? Une surprise agréable pour votre client et la poursuite de la relation pour votre activité.</p>
+<h2 style="color: #5e8f71">Offres et remises qui font la différence</h2>
+<p>Nous ne vous recommandons pas habituellement d&rsquo;agir sur les prix, mais les fêtes de fin d&rsquo;année et le début d&rsquo;année sont des périodes uniques : les clients s&rsquo;attendent à bénéficier de remises. Cela ne veut pas dire que vous devez faire comme les autres : trouvez un moyen unique pour vous démarquer alors que les clients se préparent à dépenser leurs étrennes et leurs cartes cadeaux. Voici quelques pistes :</p>
+<p><strong>Pourcentage reversé à un tiers</strong><br />
+Une façon intéressante de vous différencier est d&rsquo;offrir un pourcentage de vos commandes à une œuvre caritative. Après les mois de tornade consumériste que représente la saison de fin d&rsquo;année, de nombreuses personnes sont heureuses de voir que leur argent sert à une noble cause.</p>
+<p><strong>Un produit acheté, un produit offert</strong><br />
+Si vous devez écouler vos stocks, vous pouvez envisager d&rsquo;offrir un produit gratuit lors de l&rsquo;achat d&rsquo;un produit ne faisant pas l&rsquo;objet d&rsquo;une remise. Cela fonctionne très bien avec les produits périssables ou saisonniers, comme les vêtements : offrez une écharpe imprimée pour tout achat d&rsquo;un jean non remisé. Même si vous n&rsquo;êtes pas rentable pour ces produits, vous réduisez vos coûts d&rsquo;inventaire et l&rsquo;espace occupé par des produits qui auraient fini au rebut.</p>
+<p><strong>Offres groupées</strong><br />
+Si vous devez vous débarrasser de produits complémentaires, vous pouvez les regrouper et les proposer aux clients qui ont acheté un produit connexe. Les accessoires et recharges sont d&rsquo;excellents candidats : médiators et cordes pour une nouvelle guitare, ou encore chargeurs, adaptateurs et étuis pour téléphones. Associez vos produits pour voir ce qui fonctionne pour votre boutique.</p>
+<p><strong>Le traditionnel concours</strong><br />
+Suscitez l&rsquo;intérêt de vos clients avec un concours : demandez-leur d&rsquo;envoyer leur photo préférée des fêtes de fin d&rsquo;année ou la meilleure image de votre produit en cours d&rsquo;utilisation. Tous les participants peuvent gagner, même si le prix n&rsquo;est qu&rsquo;une remise de 5 % sur leur prochain achat. Utilisez le concours pour faire la promotion de votre nouveau produit ou de votre meilleure vente et offrez-en un exemplaire au vainqueur.</p>
+<p><strong>Soyez reconnaissant</strong><br />
+La réussite de votre boutique dépend fortement de la fidélité de vos clients. Pourquoi ne pas les remercier pour cette année réussie ? Offrez-leur une petite remise qu&rsquo;ils peuvent partager avec leurs amis et leur famille. Ils auront ainsi une raison de visiter votre boutique en janvier et vous permettront peut-être également d&rsquo;attirer de nouveaux visiteurs.</p>
+<p><strong>Un nouveau produit pour la nouvelle année, sans remise</strong><br />
+Le lancement d&rsquo;un nouveau produit est une manière intéressante d&rsquo;attirer l&rsquo;attention des clients sans casser les prix. Vous devez faire preuve d&rsquo;organisation, mais si vous réussissez, vous pouvez tirer parti de l&rsquo;effervescence du début d&rsquo;année pour créer l&rsquo;événement.</p>
+<h2 style="color: #5e8f71">Leçons et résolutions</h2>
+<p>Le début d&rsquo;année est également une période propice pour faire le bilan de l&rsquo;année passée afin de se préparer à celle qui arrive. Vous offrirez certainement une remise sur certains produits et vous efforcerez de faire de la place pour de nouveaux produits, mais il est également important de prendre le temps de se consacrer à l&rsquo;aspect important qu&rsquo;est le marketing, qui vous préparera pour la PROCHAINE période de fin d&rsquo;année.</p>
+<p><strong>Des données précieuses</strong><br />
+Les fêtes de fin d&rsquo;années ont dû vous permettre de réunir une grande quantité de données sur vos clients. Vous pouvez les utiliser pour segmenter votre liste de contacts et envoyer des offres personnalisées sur des produits que vous voulez proposer à des clients qui seront, vous en êtes convaincu, intéressés. Par exemple, si vous savez quel client a acheté un téléphone cette année, envoyez-lui un e-mail pour lui proposer une offre groupée sur des accessoires. Ou, si vous tenez une boutique de vêtements et disposez de produits excédentaires dans une sélection restreinte de tailles, envoyez des offres ciblées aux clients qui ont déjà acheté des vêtements dans la même taille auparavant. Vous évitez ainsi de submerger vos clients avec des offres qui ne les intéresseront pas.</p>
+<p><strong>Tenez compte des habitudes d&rsquo;achat </strong><br />
+Vous avez appris déjà beaucoup sur vos clients au cours de cette période de fin d&rsquo;année, mais également sur vos produits. Quels sont les produits non remisés qui se vendent ? Qu&rsquo;est-ce qui devra être soldé ? Utilisez ces données pour adapter votre marketing et évaluer les produits à remiser pour les écouler et les produits qui resteront dans votre inventaire tout au long de l&rsquo;année.</p>
+<ul style="margin-left: 30px">
+<li><strong style="color: #5e8f71">Produits appréciés :</strong> les fêtes de fin d&rsquo;année vous ont probablement donné une bonne idée des produits que les acheteurs sont prêts à payer au prix fort. Il s&rsquo;agit de produits qui peuvent facilement être intégrés aux offres groupées et aux promotions en ce début d&rsquo;année et qui peuvent faire l&rsquo;objet d&rsquo;efforts marketing tout au long de l&rsquo;année.</li>
+<li><strong style="color: #5e8f71">Produits prometteurs :</strong> certains produits ont-ils attiré l&rsquo;attention, sans forcément entraîner de conversions ? Tentez d&rsquo;en faire la promotion grâce à une légère promotion de fin d&rsquo;année ou mettez-les simplement en évidence lorsque vous communiquez avec vos clients.</li>
+<li><strong style="color: #5e8f71">Produits en difficulté :</strong> si certains produits se vendent uniquement remisés, il est peut-être temps de les écouler. Les soldes de début d&rsquo;année sont une bonne occasion de proposer une catégorie spéciale « Liquidation des stocks ». Ces produits peuvent également être intégrés à des offres groupées.</li>
+</ul>
+<p><strong>Paniers en attente, à ne pas négliger</strong><br />
+De nombreux clients utilisent les paniers comme des listes de cadeaux qu&rsquo;ils souhaitent recevoir. Ils s&rsquo;attendent souvent à recevoir un rappel : ne ratez pas cette occasion de les relancer et finaliser des ventes en attente.</p>
+<p><strong>Misez sur les réseaux sociaux</strong><br />
+Les fêtes de fin d&rsquo;année sont peut-être terminées, mais n&rsquo;abandonnez pas encore vos efforts marketing. Utilisez les réseaux sociaux pour entretenir vos relations avec vos clients. Si vous décidez de rejoindre une œuvre caritative, les réseaux sociaux sont un moyen intéressant d&rsquo;entrer en contact avec vos clients et de les sensibiliser. C&rsquo;est également vrai si vous organisez un concours en début d&rsquo;année.</p>
+<p><strong>Sus aux décorations (et aux offres !)</strong><br />
+Il s&rsquo;agit d&rsquo;une étape simple à réaliser, mais également facile à oublier. Malheureusement, les conséquences d&rsquo;un oubli pourraient être préjudiciables pour votre réputation et vos performances. Si vous aviez offert les frais de port pendant les fêtes, assurez-vous de supprimer cette offre si vous ne pensez pas continuer l&rsquo;année suivante. Avez-vous offert une garantie à prix réduit pendant les fêtes que votre promotion de début d&rsquo;année pourrait contredire ? N&rsquo;attendez pas, vous pourrez ensuite vous consacrer à des choses plus importantes.</p>
+<h2 style="color: #5e8f71">Mémo</h2>
+<ul style="margin-left: 30px">
+<li>Personnalisez le processus d&rsquo;échange et de retour.</li>
+<li>Proposez des offres incitatives pour convertir les retours en échanges ou en achats.</li>
+<li>Évitez de proposer uniquement des remises élevées, soyez créatif.</li>
+<li>Remerciez vos clients.</li>
+<li>Utilisez les données pour segmenter vos clients et cibler vos efforts marketing.</li>
+<li>Analysez les performances de vos produits et le marché.</li>
+<li>Relancez les paniers en attente.</li>
+<li>Exploitez les réseaux sociaux.</li>
+<li>Réétudiez vos offres de fin d&rsquo;année et retirez vos décorations.</li>
+</ul>
+<p>Les fêtes de fin d&rsquo;année sont terminées, mais la nouvelle année commence. Quels sont vos secrets pour mettre toutes les chances de votre côté ? Avez-vous mis en pratique l&rsquo;une de ces suggestions ? Faites-nous part de ce qui fonctionne pour votre boutique !</p>
+<hr align="left" size="2" width="20%" />
+<p>Prêt à faire de 2015 une année formidable ? Découvrez la version 2015 actualisée de notre <a href="http://www.prestashop.com/fr/calendrier-ecommerce">calendrier e-commerce</a>. De nos conseils d&rsquo;experts aux principales dates de soldes, il contient tout ce dont vous avez besoin pour préparer cette nouvelle année.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-pistes-remedier-baisse-ventes-en-ce-debut-dannee/">3 pistes pour remédier à la baisse des ventes en ce début d&rsquo;année</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/3-pistes-remedier-baisse-ventes-en-ce-debut-dannee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design e-commerce : 5 tendances pour 2015</title>
+		<link>https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/</link>
+		<comments>https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/#comments</comments>
+		<pubDate>Mon, 19 Jan 2015 17:06:19 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18227</guid>
+		<description><![CDATA[<p>L’une de vos résolutions pour 2015 est de mettre à jour le design graphique de votre boutique ? Vous êtes chanceux, nous avons tout prévu ! PrestaShop a sélectionné pour vous les dernières tendances en matière de conception graphique de sites e-commerce, pour un design plus actuel et adapté à votre activité. Inspirez-vous des thèmes [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/">Design e-commerce : 5 tendances pour 2015</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’une de vos résolutions pour 2015 est de mettre à jour le design graphique de votre boutique ? Vous êtes chanceux, nous avons tout prévu !<br />
+PrestaShop a sélectionné pour vous les dernières tendances en matière de conception graphique de sites e-commerce, pour un design plus actuel et adapté à votre activité. Inspirez-vous des thèmes et modules présents dans cette liste ou utilisez-la comme référence auprès de votre web designer.<br />
+<span id="more-18227"></span></p>
+<h2 style="color: #45394d">1. Images plein écran</h2>
+<p>Si vous avez de belles photos n’hésitez pas à les afficher en plein écran. Qu&rsquo;elles soient présentées en diaporama sur votre page d&rsquo;accueil ou ailleurs sur votre site, mettez vos images à l&rsquo;honneur. Jetez un œil au site New World Order NYC, qui utilise des images en arrière-plan de ses pages produit.</p>
+<p style="text-align: center"><a href="http://www.suncoo-paris.com/en/" target="_blank"><img class="aligncenter  wp-image-19361" style="border: 1px solid #dce1e5" title="Suncoo Paris" alt="Suncoo Paris" src="http://www.prestashop.com/blog/fr/files/2015/01/big-image-suncoo-paris.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.basus.fr/en/" target="_blank"><img class="aligncenter size-full wp-image-19357" style="border: 1px solid #dce1e5" title="Basus" alt="Basus" src="http://www.prestashop.com/blog/fr/files/2015/01/big-images-basus.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.menzclub.com.au/" target="_blank"><img class="aligncenter  wp-image-19358" style="border: 1px solid #dce1e5" title="Menzclub" alt="Menzclub" src="http://www.prestashop.com/blog/fr/files/2015/01/big-images-menzclub.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.tb-groupe.fr/" target="_blank"><img class="aligncenter  wp-image-19359" style="border: 1px solid #dce1e5" title="TB Groupe" alt="TB Groupe" src="http://www.prestashop.com/blog/fr/files/2015/01/big-images-tb-groupe.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://thenewworldordernyc.com/" target="_blank"><img class="aligncenter  wp-image-19360" style="border: 1px solid #dce1e5" title="The New World Order NYC" alt="The New World Order NYC" src="http://www.prestashop.com/blog/fr/files/2015/01/big-images-thenewworldordernyc.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.april77.fr/en/" target="_blank"><img class="aligncenter  wp-image-19362" style="border: 1px solid #dce1e5" title="April77" alt="April77" src="http://www.prestashop.com/blog/fr/files/2015/01/big-screen-april77.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.bimbaylola.com/" target="_blank"><img class="aligncenter  wp-image-19363" style="border: 1px solid #dce1e5" title="Bimba y lola" alt="Bimba y lola" src="http://www.prestashop.com/blog/fr/files/2015/01/big-screen-bimba-y-lola.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">2. Flat design, material design et couleurs vives</h2>
+<p>2014 a été l&rsquo;année du design plat (ou <a href="http://www.awwwards.com/websites/flat-design/" target="_blank">Flat Design</a>) caractérisé par l’utilisation de couleurs plates, d’un design minimaliste et d’une typographie simple, évinçant ainsi la 3D. Cette année fera la part belle au design matériel (ou <a href="http://www.google.fr/design/spec/material-design/introduction.html" target="_blank">Material Design</a>) développé par Google et s&rsquo;inspirant des textures du papier pour créer une impression de profondeur. Ces deux tendances s’appuient sur des couleurs vives et attrayantes, vous pouvez les utiliser surtout si vous êtes une marque jeune et que vous avez un ton humoristique.</p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19371" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/fr/files/2015/01/colors-m-moustache2.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/fr/files/2015/01/colors-m-moustache.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.loobow.fr/103-wc-couleur-jaune-gamme-yellow-cab" target="_blank"><img class="aligncenter  wp-image-19369" style="border: 1px solid #dce1e5" title="Loobow" alt="Loobow" src="http://www.prestashop.com/blog/fr/files/2015/01/colors-loobow.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.bioseptyl.fr/brosses-a-dents-adultes/8-blanche-nurse.html" target="_blank"><img class="aligncenter  wp-image-19368" style="border: 1px solid #dce1e5" title="Bioseptyl" alt="Bioseptyl" src="http://www.prestashop.com/blog/fr/files/2015/01/colors-bioseptyl.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.pa-design.com/en/" target="_blank"><img class="aligncenter  wp-image-19372" style="border: 1px solid #dce1e5" title="pa Design" alt="pa Design" src="http://www.prestashop.com/blog/fr/files/2015/01/colors-pa-design.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">3. Aperçu rapide (Flashcards)</h2>
+<p>Créez des aperçus rapides pour que vos clients puissent tout savoir sur vos produits en un clin d&rsquo;œil. Pour chaque article, ajoutez le nom et la description du produit, des boutons de partage pour les réseaux sociaux, le prix, et bien sûr, un bouton « Acheter maintenant ».</p>
+<p style="text-align: center"><a href="http://www.theverge.com/a/holiday-gift-ideas-2014/25-100" target="_blank"><img class="aligncenter  wp-image-19365" style="border: 1px solid #dce1e5" title="The Verge Holiday Gift Ideas" alt="The Verge Holiday Gift Ideas" src="http://www.prestashop.com/blog/fr/files/2015/01/cards-the-verge-holiday-gift-ideas.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://wallcaps.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19366" style="border: 1px solid #dce1e5" title="Wallcaps" alt="Wallcaps" src="http://www.prestashop.com/blog/fr/files/2015/01/cards-wallcaps.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.wannabk.com/" target="_blank"><img class="aligncenter  wp-image-19367" style="border: 1px solid #dce1e5" title="Wannabek" alt="Wannabek" src="http://www.prestashop.com/blog/fr/files/2015/01/cards-wannabek.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://housen.ro/" target="_blank"><img class="aligncenter  wp-image-19364" style="border: 1px solid #dce1e5" title="Housen" alt="Housen" src="http://www.prestashop.com/blog/fr/files/2015/01/cards-housen-ro.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">4. L&rsquo;effet parallaxe</h2>
+<p>Vous vous êtes certainement déjà laissé hypnotiser par l&rsquo;animation d&rsquo;arrière-plan d&rsquo;un site Web. C&rsquo;est ce que l&rsquo;on appelle l&rsquo;effet parallaxe. Cet effet peut être très réussi lorsqu&rsquo;il est utilisé à bon escient, mais attention à ne pas vous laisser emporter ! Votre objectif principal est de présenter vos produits. Les animations et les effets sont là pour booster vos ventes, pas pour faire de l&rsquo;ombre au reste de votre site. Sur le site Manoush, la navigation sur les pages est animée avec des motifs en arrière-plan qui ajoutent une touche de couleur.</p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.manoush.com/e-shop/" target="_blank"><img class="aligncenter  wp-image-19375" style="border: 1px solid #dce1e5" title="Manoush" alt="Manoush" src="http://www.prestashop.com/blog/fr/files/2015/01/parallax-manoush.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">5. Boutons minimalistes</h2>
+<p>Les boutons minimalistes sont discrets et invitent l&rsquo;utilisateur à cliquer. Ils se fondent parfaitement avec l&rsquo;arrière-plan du site. Ils vous seront particulièrement utiles si vous avez besoin d&rsquo;ajouter un bouton au diaporama de votre page d&rsquo;accueil.</p>
+<p style="text-align: center"><a href="http://www.zeina-alliances.com/" target="_blank"><img class="aligncenter  wp-image-19374" style="border: 1px solid #dce1e5" title="Zeina" alt="Zeina" src="http://www.prestashop.com/blog/fr/files/2015/01/minimal-buttons-zeina.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.oelwein.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19373" style="border: 1px solid #dce1e5" alt="Oelwein" src="http://www.prestashop.com/blog/fr/files/2015/01/minimal-buttons-oelwein.png" width="657" height="400" /></a></p>
+<h4 style="color: #73bd43">Pour résumer</h4>
+<p><strong style="color: #73bd43">1.</strong> Mettez vos meilleures photos en avant grâce aux images plein écran</p>
+<p><strong style="color: #73bd43">2.</strong> Adoptez deux grandes tendances de 2015 : le Flat design ou Material design</p>
+<p><strong style="color: #73bd43">3.</strong> Créez des aperçus pour transmettre à vos clients toutes les informations dont ils ont besoin en un clin d&rsquo;œil</p>
+<p><strong style="color: #73bd43">4.</strong> Utilisez l&rsquo;effet parallaxe à bon escient</p>
+<p><strong style="color: #73bd43">5.</strong> Intégrez des boutons épurés pour ne pas distraire les utilisateurs des images</p>
+<p>Nous avons sélectionné pour vous ces quelques exemples de tendances phares de 2015 pour le design de votre site e-commerce. Lesquelles allez-vous adopter ? Téléchargez l’un de <a href="http://addons.prestashop.com/fr/3-themes-prestashop" target="_blank">nos thèmes</a> ou contactez l&rsquo;une de nos <a href="https://www.prestashop.com/fr/agences-web-partenaires" target="_blank">agences Web partenaires</a> pour remettre votre boutique en ligne au goût du jour.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/">Design e-commerce : 5 tendances pour 2015</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Calendrier e-commerce: 52 secrets pour réussir en 2015</title>
+		<link>https://www.prestashop.com/blog/fr/calendrier-e-commerce-52-secrets-pour-reussir-en-2015/</link>
+		<comments>https://www.prestashop.com/blog/fr/calendrier-e-commerce-52-secrets-pour-reussir-en-2015/#comments</comments>
+		<pubDate>Thu, 08 Jan 2015 08:45:41 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=18045</guid>
+		<description><![CDATA[<p>Rangez vos bonnes résolutions, on s’occupe de tout ! Finies les bonnes pratiques que l’on s’impose le jour de l’An, qui sont oubliées approximativement dès le 15 janvier (avouons-le, aucune bonne résolution n’a jamais dépassé ce délai). Dès cette année, on prend soin de vous pendant les 52 semaines qui s’offrent à nous. Parce qu’on [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/calendrier-e-commerce-52-secrets-pour-reussir-en-2015/">Calendrier e-commerce: 52 secrets pour réussir en 2015</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Rangez vos bonnes résolutions, on s’occupe de tout !</p>
+<p>Finies les bonnes pratiques que l’on s’impose le jour de l’An, qui sont oubliées approximativement dès le 15 janvier (avouons-le, aucune bonne résolution n’a jamais dépassé ce délai).<br />
+Dès cette année, on prend soin de vous pendant les 52 semaines qui s’offrent à nous.<br />
+<span id="more-18045"></span><br />
+Parce qu’on sait que le métier d’e-commerçant représente 12 métiers à la fois (du développeur au comptable, en passant par le logisticien, le graphiste, le rédacteur, le commercial&#8230;) et qu’il est difficile d’anticiper et de prioriser.<br />
+Parce que notre mission est de vous aider à réussir votre projet e-commerce.<br />
+Et parce qu’on est à vos côtés, tout simplement.</p>
+<p>Nous sommes heureux de vous offrir le <a href="http://www.prestashop.com/fr/calendrier-ecommerce" target="_blank">calendrier e-commerce 2015</a> <strong>détaillé semaine par semaine, adapté à l’activité et aux événements de votre pays.</strong></p>
+<h2 style="color: #4d7e3d;">12 pages pour réussir tout au long de l’année</h2>
+<p><strong>Chaque semaine</strong> de cette nouvelle année, <strong>vous retrouvez un conseil</strong> pour gagner en trafic ou en conversions, une idée pour améliorer l’expérience utilisateur, optimiser votre panier moyen ou fidéliser vos clients sur votre boutique en ligne&#8230;</p>
+<p>Pour vous faciliter le travail, une <strong>sélection d’outils</strong> vous est proposée, par exemple pour créer vos promos et communiquer largement, pour gagner du temps dans la gestion de votre boutique&#8230;</p>
+<p>Un <strong>événement commercial majeur</strong> se pointe à l’horizon (soldes, Noël, Fête des mères, Black Friday…) ? Aucun problème, cette année plus que jamais vous avez les clés pour les anticiper, et savoir <strong>quand et comment commencer à préparer</strong> votre site e-commerce.</p>
+<p>Chaque mois, un e-commerçant PrestaShop vous confie également <strong>l’une de ses astuces</strong> qui a contribué à sa réussite.</p>
+<p>&#8230; et si vous ne levez pas le pied régulièrement, on vous indique même quand vous reposer !</p>
+<h2 style="color: #4d7e3d;">Personnalisez votre calendrier</h2>
+<p>Ces conseils sont simplement des suggestions d’experts pour animer votre site e-commerce, vous aider à vous organiser, vous permettre de redécouvrir votre boutique en ligne avec un œil neuf sans jamais vous décourager.</p>
+<p>Mais ce calendrier comporte également des cases à remplir. Par vous.<br />
+<strong>Votre boutique est unique.</strong> Vous connaissez vos clients, vos produits, et l’univers de votre site mieux que personne. Inscrivez dès maintenant sur votre calendrier les animations propres à votre activité que vous souhaitez mettre en place.</p>
+<h2 style="color: #4d7e3d;">En chiffres</h2>
+<h4>Le calendrier e-commerce 2015, c’est :</h4>
+<ul style="margin: 0 0 0 15px;">
+<li>0 centime pour le télécharger</li>
+<li>1 calendrier circulaire pour voir d’un coup d’œil les temps forts de l’année</li>
+<li>8 pays disponibles (France, Espagne, Etats-Unis, Italie, Allemagne, Pays-Bas, Royaume Uni et Pologne)</li>
+<li>12 pages personnalisées avec les secrets que vous confient les e-commerçants</li>
+<li>52 conseils e-commerce (parfois plus selon les pays)</li>
+<li>327 audits de boutiques en ligne (menés récemment lors de différents événements), qui nous ont donné l’idée de créer ce calendrier pour vous accompagner</li>
+</ul>
+<p>L’année prochaine, nous espérons pouvoir proposer ce calendrier pour davantage de pays encore.<br />
+Vous souhaitez y contribuer ?<br />
+N’hésitez pas à nous envoyer les événements majeurs de votre région, ou les astuces que vous souhaitez partager avec les autres e-commerçants de votre pays à <a href="calendar@prestashop.com">calendar@prestashop.com</a>.</p>
+<p>Un grand merci à <a title="Pagination.com" href="http://www.pagination.com" target="_blank">Pagination.com</a> pour leur aide à l&rsquo;intégration du template et des données.</p>
+<p>Excellente année 2015 et belle réussite e-commerce à tous !</p>
+<p style="text-align: center; font-size: 18px;"><a href="http://www.prestashop.com/fr/calendrier-ecommerce" target="_blank">Télécharger mon calendrier maintenant</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/calendrier-e-commerce-52-secrets-pour-reussir-en-2015/">Calendrier e-commerce: 52 secrets pour réussir en 2015</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/calendrier-e-commerce-52-secrets-pour-reussir-en-2015/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>
