@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 19:05:17
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-14 17:56:08
          compiled from "C:\wamp\www\prestashop\themes\default-bootstrap\product-list-colors.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:467754dceb5dc26f61-92267630%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:796554df7e28c7e684-68328537%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '467754dceb5dc26f61-92267630',
+  'nocache_hash' => '796554df7e28c7e684-68328537',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54dceb5dd0d755_20697837',
+  'unifunc' => 'content_54df7e28de97f9_72185951',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54dceb5dd0d755_20697837')) {function content_54dceb5dd0d755_20697837($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54df7e28de97f9_72185951')) {function content_54df7e28de97f9_72185951($_smarty_tpl) {?>
 <ul class="color_to_pick_list clearfix">
 	<?php  $_smarty_tpl->tpl_vars['color'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['color']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['colors_list']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}

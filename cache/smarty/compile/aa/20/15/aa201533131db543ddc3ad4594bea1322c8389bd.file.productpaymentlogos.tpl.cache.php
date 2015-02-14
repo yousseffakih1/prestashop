@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-11 17:19:52
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-14 17:56:43
          compiled from "C:\wamp\www\prestashop\modules\productpaymentlogos\views\templates\hook\productpaymentlogos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:56754db81284044d0-92869455%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:644054df7e4b4d3873-44916628%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '56754db81284044d0-92869455',
+  'nocache_hash' => '644054df7e4b4d3873-44916628',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54db81284a83b7_44190004',
+  'unifunc' => 'content_54df7e4b570b53_57712907',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54db81284a83b7_44190004')) {function content_54db81284a83b7_44190004($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54df7e4b570b53_57712907')) {function content_54df7e4b570b53_57712907($_smarty_tpl) {?>
 <!-- Productpaymentlogos module -->
 <div id="product_payment_logos">
 	<div class="box-security">

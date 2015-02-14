@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-11 17:20:19
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-14 17:56:43
          compiled from "C:\wamp\www\prestashop\themes\default-bootstrap\product.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:53854db8129756130-19659084%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2077554df7e4ba6c7d9-41159549%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,12 +11,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '53854db8129756130-19659084',
+  'nocache_hash' => '2077554df7e4ba6c7d9-41159549',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54db812b938ae9_61929815',
   'variables' => 
   array (
     'errors' => 0,
@@ -113,8 +111,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'tax_rate' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_54df7e4dbe5cc1_46694243',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54db812b938ae9_61929815')) {function content_54db812b938ae9_61929815($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_54df7e4dbe5cc1_46694243')) {function content_54df7e4dbe5cc1_46694243($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\modifier.date_format.php';
 if (!is_callable('smarty_function_math')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\function.math.php';
 if (!is_callable('smarty_function_cycle')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\function.cycle.php';
 if (!is_callable('smarty_function_counter')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\function.counter.php';

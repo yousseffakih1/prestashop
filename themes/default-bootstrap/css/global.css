@@ -5494,11 +5494,16 @@ header {
   padding-bottom: 15px; }
   header .banner {
     background: black;
-    max-height: 100%; }
+    max-height: 100%;
+display:none;	}
     header .banner .row {
       margin: 0px; }
+#slider_row ,#htmlcontent_home,.footer-container,.content_scene_cat_bg{
+display:none; 
+}
+	  
   header .nav {
-    background: #333; }
+    background: #333;display:none; }
     header .nav .row {
       margin: 0px; }
     header .nav nav {

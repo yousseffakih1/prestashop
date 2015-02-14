@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-11 17:19:52
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-14 17:56:43
          compiled from "C:\wamp\www\prestashop\themes\default-bootstrap\modules\productcomments\\tab.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2550854db81284f2f25-20608839%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:569754df7e4b5bfc14-54444164%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,15 +11,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2550854db81284f2f25-20608839',
+  'nocache_hash' => '569754df7e4b5bfc14-54444164',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54db81284ff7b3_93461623',
+  'unifunc' => 'content_54df7e4b5cb9b0_20061452',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54db81284ff7b3_93461623')) {function content_54db81284ff7b3_93461623($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54df7e4b5cb9b0_20061452')) {function content_54df7e4b5cb9b0_20061452($_smarty_tpl) {?>
 
 <h3 id="#idTab5" class="idTabHrefShort page-product-heading"><?php echo smartyTranslate(array('s'=>'Reviews','mod'=>'productcomments'),$_smarty_tpl);?>
 </h3> <?php }} ?>

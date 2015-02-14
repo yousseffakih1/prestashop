@@ -1969,7 +1969,7 @@
   ),
   'FrontController' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/FrontController.php',
     'type' => 'class',
     'override' => false,
   ),

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 19:05:20
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-14 17:56:12
          compiled from "C:\wamp\www\prestashop\themes\default-bootstrap\modules\blockwishlist\blockwishlist_button.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1766154dceb603415a3-43383546%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:533354df7e2c31da68-48930020%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1766154dceb603415a3-43383546',
+  'nocache_hash' => '533354df7e2c31da68-48930020',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54dceb6039f5e0_07113124',
+  'unifunc' => 'content_54df7e2c39e634_15768047',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54dceb6039f5e0_07113124')) {function content_54dceb6039f5e0_07113124($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54df7e2c39e634_15768047')) {function content_54df7e2c39e634_15768047($_smarty_tpl) {?>
 
 <div class="wishlist">
 	<a class="addToWishlist wishlistProd_<?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
